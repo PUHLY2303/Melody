@@ -2,6 +2,6 @@
 ## Проект выполнил: Артём Кузнецов
 
 ### Техгология
--html
--css
--javascript
+- html
+- css
+- javascript
